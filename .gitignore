@@ -1,0 +1,10 @@
+# GoLand files
+.idea
+
+# Build files
+FiascoExtension
+
+# Media files
+*.mp4
+*.webm
+*.fco
